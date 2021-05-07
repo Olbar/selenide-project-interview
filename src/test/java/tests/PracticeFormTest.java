@@ -43,7 +43,7 @@ public class PracticeFormTest extends BaseTest {
     private List<String> hobby = new ArrayList<>();
 
     @BeforeMethod
-    public PracticeFormPage openPraciceForm() {
+    public PracticeFormPage openPracticeForm() {
         practiceFormPage = openPracticeFormPage();
         return practiceFormPage;
     }

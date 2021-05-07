@@ -1,10 +1,10 @@
 package pages;
 
 
-import common.Checked;
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
+import common.Checked;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.FindBy;
 
@@ -12,7 +12,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 import static com.codeborne.selenide.Condition.exactText;
-import static com.codeborne.selenide.Selenide.$$;
 import static com.codeborne.selenide.Selenide.page;
 
 public class GratitudePage implements Checked<GratitudePage> {
@@ -33,9 +32,9 @@ public class GratitudePage implements Checked<GratitudePage> {
 
 
     public GratitudePage checkParams(HashMap<String, String> params) {
-        for (Map.Entry param:params.entrySet()) {
-            collection.findBy(exactText(param.getKey().toString()))
-                    .parent().find(By.cssSelector("td:last-child")).shouldHave(exactText(param.getValue().toString()));
+        for (Map.Entry<String,String> param:params.entrySet()) {
+            collection.findBy(exactText(param.getKey()))
+                    .parent().find(By.cssSelector("td:last-child")).shouldHave(exactText(param.getValue()));
         }
         return this;
     }

@@ -18,6 +18,10 @@ $RECYCLE.BIN/
  build/
  *.iml
  .allure/
+.classpath
+.project
+.settings/
+target/
 # Windows shortcuts
 *.lnk
 

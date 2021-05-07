@@ -72,7 +72,6 @@
                         <selenide.browser>chrome</selenide.browser>
                         <selenide.headless>false</selenide.headless>
                         <selenide.startMaximized>true</selenide.startMaximized>
-                        <site.url>https://demoqa.com</site.url>
                         <selenide.baseUrl>https://demoqa.com</selenide.baseUrl>
                         <selenide.timeout>20000</selenide.timeout>
                         <selenide.collectionsTimeout>20000</selenide.collectionsTimeout>

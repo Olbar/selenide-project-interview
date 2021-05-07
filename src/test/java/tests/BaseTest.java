@@ -14,7 +14,7 @@ public class BaseTest {
         open("");
     }
 
-    PracticeFormPage openPraciceFormPage(){
+    PracticeFormPage openPracticeFormPage(){
         open("/automation-practice-form");
         return page(PracticeFormPage.class).checkOpen();
     }

@@ -14,7 +14,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+.idea/
+ build/
+ *.iml
+ .allure/
 # Windows shortcuts
 *.lnk
 

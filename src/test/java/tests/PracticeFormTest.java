@@ -44,7 +44,7 @@ public class PracticeFormTest extends BaseTest {
 
     @BeforeMethod
     public PracticeFormPage openPraciceForm() {
-        practiceFormPage = openPraciceFormPage();
+        practiceFormPage = openPracticeFormPage();
         return practiceFormPage;
     }
 

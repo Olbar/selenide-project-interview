@@ -1,7 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95b8f5b5-25c1-4df9-9006-0072f84dc9d4" name="Default" comment="" />
+    <list default="true" id="95b8f5b5-25c1-4df9-9006-0072f84dc9d4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/00fa0480-c22a-4848-bf3b-7233cf5d8775-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/01ac8105-40ba-4814-a052-fed2b20c3397-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/0823c758-cfdc-4a00-8582-8567157488ea-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/086df0b7-57c3-461b-a35e-06038326f7dd-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/0da05e84-b478-49f0-9ab7-6fde58cf1ea9-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/13c1523c-452e-4401-9f73-e95637f1d66e-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/183bc3f0-7510-4631-b37c-60fd127fe91f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/18a8e6b8-89d4-4cc6-beeb-002f84b5744d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/1e69f116-adfb-47bd-996b-b739013af8e6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/1fa752e6-0ef5-4f28-9fb8-3a20d4ca2236-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/24700315-d26b-4a1c-bd7a-71821b704cfa-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/247bce93-f031-415d-9226-e5050800b2a0-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/25f8fe71-fd92-4f19-b0d9-ff6543d34daa-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/27a417c3-aee0-4d74-a6e4-08d289982c17-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/345043e0-5723-4751-ac05-3f52dff62fe6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/38078be5-83ea-437f-b933-22473cac6839-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/3c10a7bc-c21e-4b36-8120-9d92337cc2e2-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/3ce6578c-3aef-41ac-b857-607ff5f80be5-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/3cee9408-ad8c-43b3-a753-90e09a4ed3b5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/4155c316-47a7-4bcb-a0ab-7465f68dd155-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/41e78364-a1a4-4c36-ad3f-83b910646ee6-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/42bc7800-9a5e-4984-b828-5390ddd812b2-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/430ccf65-3d1c-46d0-acb7-a11ccac8126a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/4449ecf1-a8a4-4d71-82b9-137750119e44-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/48e1ce8f-3d15-4222-9401-7295516d5d5a-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/4c1002ed-a2bf-42be-ae5e-21720ddb1c30-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/4df6d6cb-33f1-4fde-b30f-4121bbcbec03-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/50885bac-a98a-400d-b09d-aa93eac8c6e8-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/509b9666-bdcc-45f2-b30e-67b9daf43c99-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/527c190a-f1e2-4dbc-8b12-93cace4b84e5-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/554ca9cc-5ee8-4713-8c96-e074ee2ad9aa-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/57361cee-6bee-4334-be96-2ec9d6288683-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/5ab3cb30-ef74-40eb-8e0d-cfe94f7aa603-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/5f964895-08c8-4232-86fd-5da8879dd0c7-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/6cbc43a7-0552-4687-ac56-e977069163d5-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/6deb0967-2b5f-484f-a86c-57959b0f804f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/6fbc6e99-d034-4489-b89b-0c5399aa54df-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/772f5e9b-0fe4-46df-ad43-7de42db82e37-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/7770ad9e-e0eb-4742-8d79-6d57bb677ac7-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/7f57f667-e47a-4f58-95b9-f2e5df584716-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/83a84103-0cc6-49c3-8a7d-b9ee2caf2801-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/8a172753-0cf6-476f-a225-178a1de16f3c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/8e52cb47-0072-443a-a642-349d618013fa-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/8ff14036-55c0-4c69-8d1b-c025e078b62b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/93846b02-ade4-4a7d-a3dc-2ac5fa47b70f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/a4820061-15eb-405b-a3c1-bd2c420fd47b-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/a4def166-3236-4360-9a2b-259ed844be4d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/a76a1653-50c1-4ab9-b4d2-9a09e062787b-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ae5afa5b-8f4a-4d3f-97cd-0c80b4624c52-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/b0f3494f-15d0-435b-8b32-b69cb8a614d2-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/b48d0273-de16-4f41-ac83-b0d03b9ce1f3-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/b4a19646-0021-4ef8-a650-fb270a169f1a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/b5abf524-1d3b-43da-ba5a-7d85830d8308-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/b8d38c16-3804-41cc-8aea-fdb26fd4a0f4-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/c205c36e-4b29-47ab-96ca-99039ca5009d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/c49deed0-f524-404a-8691-82fb42699005-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/c53a75c1-4915-4b6b-9847-ba64bc2fa1e1-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/c60abeab-a773-4d3e-95c2-66c8a5344e70-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/c7a17608-0dd5-4516-9838-7057cab75f49-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/c8120319-6e57-4f8c-860a-727cece3e0b9-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/cc0aa72f-9188-4d19-9009-5a71b3bbbb0f-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/cd1b1a39-098a-490f-ac98-c1843f520fa6-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/cd3bee54-7d5f-4350-ba0f-2919cfc9fe5a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/cd57197c-b3b3-4723-8998-c8623d65c175-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ce76fdc9-2f57-4724-8c85-3d32712f09d5-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/cf3272ac-a0cf-4814-a9fd-7e6c3617ba7a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/d1b17480-46c5-4c0e-87d0-80453e52e4af-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/d3e78281-a22c-45d1-bfa6-c3c1304e3809-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/d7f00112-251b-4bc5-84f1-21552859e8b8-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/de6815d2-fcb2-4ed1-952f-235887ea098c-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/df810272-844d-4b73-a444-fe3d55294540-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/e6e988d7-869b-418d-8ae5-2f837ae93406-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ea6f68a0-5153-4b67-9624-91dea16e265d-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ec63988d-1bcb-4030-a10f-f2915db8a04a-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ecb6ab23-b14d-4b80-a1e0-250e6ca6367e-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ef73b26f-eeca-473b-841a-adfce5567c4b-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/executor.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/f0281a7c-a909-4baf-91ee-0ae63551e0f8-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/fae16ac7-0f7c-417f-aead-8cc8e0a3cb95-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ff482e58-b44a-4e7c-84f3-18f1dd860f0d-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ff6ab9ef-f123-4502-92de-61c41de4981a-container.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/ffe6b0e8-76ab-448e-ae9b-71279eae056e-result.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/allure.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/img/Generalokot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/allure.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/common/Checked.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/common/Cities.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/common/Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/common/Gender.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/common/Hobby.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/common/States.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/img/Generalokot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/pages/GratitudePage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/pages/MainPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/pages/NavigationPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/pages/PracticeFormPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/tests/BaseTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/tests/MoveToPracticeFormTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/tests/PracticeFormTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/tests/Test.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/tests/MoveToPracticeFormTest.java" afterPath="$PROJECT_DIR$/src/test/java/tests/MoveToPracticeFormTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTest.java" afterPath="$PROJECT_DIR$/src/test/java/tests/PracticeFormTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +122,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -31,7 +135,7 @@
       <file leaf-file-name="PracticeFormTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/PracticeFormTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1849">
+            <state relative-caret-position="2397">
               <caret line="154" column="5" lean-forward="false" selection-start-line="154" selection-start-column="5" selection-end-line="154" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -40,21 +144,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/common/Constants.java">
+      <file leaf-file-name="NavigationPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/NavigationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavigationPage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/NavigationPage.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -64,7 +178,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/common/Gender.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,7 +199,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="19" />
-              <folding />
+              <folding>
+                <element signature="e#312#313#0" expanded="false" />
+                <element signature="e#339#340#0" expanded="false" />
+                <element signature="e#365#366#0" expanded="false" />
+                <element signature="e#390#391#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,22 +213,9 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/MoveToPracticeFormTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cities.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/common/Cities.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,6 +268,9 @@
       <find>TestNG</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -180,14 +289,15 @@
         <option value="$PROJECT_DIR$/src/test/java/common/Hobby.java" />
         <option value="$PROJECT_DIR$/src/test/java/common/States.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/MainPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/NavigationPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/common/Constants.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/PracticeFormPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/MoveToPracticeFormTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/PracticeFormTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/common/Cities.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/NavigationPage.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/MoveToPracticeFormTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" />
       </list>
     </option>
   </component>
@@ -208,38 +318,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="test" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="test" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="test" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="allure" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -279,26 +357,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -316,11 +396,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -342,11 +422,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -361,18 +441,14 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
+              <option name="myItemId" value="selenide-project-intw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -380,36 +456,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenide-test-intw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -417,6 +469,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16601562" />
     <property name="project.structure.side.proportion" value="0.4826389" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -957,14 +1010,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15085287" sideWeight="0.4944" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25746268" sideWeight="0.4944" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -976,14 +1029,13 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4844098" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32897863" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26280624" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32516703" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25906184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -993,6 +1045,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1512945" sideWeight="0.5056" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1012,22 +1065,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/GratitudePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/Checked.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/PracticeFormPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2057">
@@ -1061,14 +1098,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/PracticeFormTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -1098,11 +1128,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1110,7 +1136,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,11 +1200,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1236,11 +1257,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1302,7 +1319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1326,26 +1342,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/common/Cities.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1368,7 +1365,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/common/Gender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1385,7 +1382,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="19" />
-          <folding />
+          <folding>
+            <element signature="e#312#313#0" expanded="false" />
+            <element signature="e#339#340#0" expanded="false" />
+            <element signature="e#365#366#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1399,7 +1401,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/PracticeFormTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1849">
+        <state relative-caret-position="2397">
           <caret line="154" column="5" lean-forward="false" selection-start-line="154" selection-start-column="5" selection-end-line="154" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1407,10 +1409,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/MoveToPracticeFormTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1419,8 +1437,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/NavigationPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding />
         </state>
       </provider>
